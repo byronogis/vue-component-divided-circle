@@ -1,7 +1,7 @@
 {
   "name": "vue-component-divided-circle",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@7.13.6",
   "description": "vue3 component divided circle",
   "author": "byronogis",
