@@ -6,6 +6,8 @@
 >
 > [Demo](https://byronogis.github.io/vue-component-divided-circle/)
 
+> **Deprecated**: This project is no longer maintained. Please use [split-circle](https://github.com/byronOgis/split-circle) instead.
+
 ### Install
 
 ```bash
